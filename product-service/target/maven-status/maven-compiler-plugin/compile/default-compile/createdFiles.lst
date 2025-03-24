@@ -1,0 +1,5 @@
+com\programmingtechie\productservice\dto\ProductResponse.class
+com\programmingtechie\productservice\model\Product.class
+com\programmingtechie\productservice\ProductServiceApplication.class
+com\programmingtechie\productservice\repository\ProductRepository.class
+com\programmingtechie\productservice\dto\ProductRequest.class
